@@ -7,7 +7,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 > Part of the **NullSec** offensive security toolkit  
-> Discord: [discord.gg/killers](https://discord.gg/killers)  
+> Twitter: [x.com/AnonAntics](https://x.com/AnonAntics)  
 > Portal: [bad-antics.github.io](https://bad-antics.github.io)
 
 ## Overview
